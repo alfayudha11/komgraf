@@ -1,4 +1,4 @@
-# komgraf
+# komgraf-Semester 3
 workshop komgraf
 anggota kelompok:
 
