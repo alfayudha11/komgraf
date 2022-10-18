@@ -1,6 +1,7 @@
 # komgraf
 workshop komgraf
 anggota kelompok:
+
 Nama: Satrio Septiaji Pratama
 
 NRP:5221600016
